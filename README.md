@@ -1,1 +1,1 @@
-this is hangman game for c project
+This project is the implementation of a game called Hangman. 
